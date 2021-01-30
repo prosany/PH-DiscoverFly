@@ -54,6 +54,7 @@ a.active {
     grid-template-columns: 2fr 3fr;
     gap: 70px;
     align-items: center;
+    margin-bottom: 40px;
 }
 @media (max-width: 768px) {
     .main-content {
